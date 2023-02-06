@@ -3,7 +3,7 @@
 ## Description
 For the module 1 assignment I refactored the code for the webpage to meet accessibility standards. In the index.html file, I replaced div elements with semantic elements such as main, nav, section and aside. For the style.css file, I consolidated classes that had the same attributes. I also renamed the classes to keep them organized.
 
-The refactored webpage can be found here: https://mdelmain.github.io/bootcamp-mod01-challenge/Develop/ 
+The refactored webpage can be found here: https://mdelmain.github.io/horiseon-d5d2df19a3bb/ 
 
 ## Installation
 N/A
@@ -39,7 +39,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./docs/01-html-css-git-homework-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
 
